@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Copy of RL EXPRESS - Gestão de Entregas",
+  "description": "Sistema de logística rápida com OCR por IA e otimização de rotas.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
